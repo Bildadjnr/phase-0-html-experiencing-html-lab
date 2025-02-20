@@ -1,0 +1,7 @@
+code my_list.txt
+
+"Monstera Deliciosa"
+"Fiddle Leaf Fig"
+"Pilea"
+"Golden Pothos"
+"Peace Lily"
